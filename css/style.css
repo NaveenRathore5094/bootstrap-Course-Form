@@ -1,0 +1,98 @@
+* {
+  font-family: "Inter", sans-serif;
+}
+.whatsappbtn {
+  border: 1px solid #27ae60;
+  font-size: 16px;
+}
+.call{
+  color: white;
+  background: linear-gradient(to right,#0ACEFE, #2699FB);
+}
+.bannerContent h2{
+font-size: 38px;
+font-weight: 700;
+}
+.bannerContent p{
+  font-size: 20px;
+}
+
+.bannerContent h2 span{
+  color: #2699FB;
+  text-decoration:underline;
+}
+.bannerContent ul{
+  list-style: none;
+}
+.bannerContent li{
+  font-size: 19px;
+}
+.bannerContent li i{
+
+  color:#2699FB;
+  margin: 8px;
+}
+.bannerContentbtn button{
+  width: 50%;
+  padding: 10px 0px;
+  border-radius: 5px;
+}
+.bannerContentbtn button:first-child{
+  background: linear-gradient(to right, #0ACEFE,#2699FB);
+  color: white;
+}
+.bannerForm{
+  padding: 40px;
+  border-radius: 10px;
+}
+.bannerForm h3{
+  font-size: 22px;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 20px;
+  color: #054985;
+}
+.bannerForm button{
+  width: 100%;
+  padding: 10px 0;
+  background: linear-gradient(to right, #0ACEFE,#2699FB);
+  border: none;
+  color: white;
+
+}
+.counterSection h2{
+  font-size: 30px;
+  font-weight: 700;
+  color: #2699FB;
+  
+}
+.Highlights-section {
+  background-color: #F7FAFF;
+}
+.Highlights-section h2 {
+  font-size: 36px;
+  color: #0A2134;
+  font-weight: 700;
+}
+.Highlights-section p{
+  font-size: 18px;
+}
+.highlightsItems h4{
+  font-size: 20px;
+  font-weight: 600;
+}
+.highlightsItems p{
+  font-size: 15px;
+}
+#mobileMenu ul li a{
+  font-weight: bold;
+  margin: 10px;
+  color: grey;
+}
+.icon{
+  display: flex;
+  justify-content: end !important;
+}
+.link{
+  text-decoration: none;
+}
